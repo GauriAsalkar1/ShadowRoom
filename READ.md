@@ -72,21 +72,21 @@ shadow-room/
 
 ## Screenshots
 
-### Login Page
+### Register Page
 
-Add image here
+![Login Page](screenshots/Register.png)
 
 ### Home Feed
 
-Add image here
+![Home Feed](screenshots/Userdashboard.png)
 
 ### AI Chatbot
 
-Add image here
+![AI Chatbot](screenshots/Chatbot.png)
 
 ### Admin Dashboard
 
-Add image here
+![Admin Dashboard](screenshots/AdminDashboard.png)
 
 ---
 
